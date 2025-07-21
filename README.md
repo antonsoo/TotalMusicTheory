@@ -1,4 +1,4 @@
-# FullMusicTheory
+# TotalMusicTheory
 An app to teach music theory, ear training, etc. Not only western music theory, but any music theory around the world (historical and otherwise). On any instrument.
 The lessons will be formatted in a simple-to-understand, and *fun* manner, developed by an AI algorithm. 
 The AI itself will use the latest research in pedagogy to formulate lessons that teach in a way that's best for you to actually retain the information and maximize the efficiency of your time spent learning.
